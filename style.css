@@ -1,0 +1,9 @@
+p{
+font-family: arial;
+font-size: small;
+}
+h1{
+color: red;
+}#menu ul {
+list-style: none;/*menghilangkan list style*/
+}
